@@ -5,7 +5,7 @@
 - 💬 Gosto de fazer amizades e conhecer pessoas novas, então chega aí!
 - 📫 Você pode me encotrar nas minhas redes abaixo!
 - ⚡ Fun fact: Jogador e cozinheiro nas horas vagas 🤣😎
- <div>
+<!--  <div>
   <a href="https://github.com/onvito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onvito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     
@@ -19,7 +19,7 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-</div>
+</div> -->
  
   ##
   
