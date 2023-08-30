@@ -1,6 +1,6 @@
 ### Olá! Me chamo Marcelo Victor 👋
 
-- 🔭 Atualmente programo em frontend
+- 🔭 Atualmente programo em Java, Angular e React-Native
 - 🌱 Gosto de aprender e tenho focado em projetos full-stack
 - 💬 Gosto de fazer amizades e conhecer pessoas novas, então chega aí!
 - 📫 Você pode me encotrar nas minhas redes abaixo!
